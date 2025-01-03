@@ -98,14 +98,14 @@ Connect with me and let's chat!
   - :pill: AI Drug Discovery using Graph Neural Network (GNN) and PyTorch's Geometric
 
   
-### :books: Technologies I'm Learning
+### :books: Technologies I'm Learning:
 - :robot: LLMs & Reinforcement Learning
 - :cloud: Cloud Computing (AWS, Azure)
 - :octocat: Git
 - :whale: Docker
 
 
-### :game_die: Hobbies & Interests
+### :game_die: Hobbies & Interests:
 
 - :movie_camera: Movie Buff
 - :video_game: Gaming (Brawl Stars, Fortnite)
