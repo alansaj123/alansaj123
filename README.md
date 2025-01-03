@@ -99,7 +99,7 @@ Connect with me and let's chat!
 
   
 ### :books: Technologies I'm Learning
-- :robot: LLMS & Reinforcement Learning
+- :robot: LLMs & Reinforcement Learning
 - :cloud: Cloud Computing (AWS, Azure)
 - :octocat: Git
 - :whale: Docker
