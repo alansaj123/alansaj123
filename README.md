@@ -2,7 +2,7 @@
 
 **`Data Scientist | ML Engineer | Student`**
 
-I am Alan Saj, a **Statistics & Analytics + Biomedical Engineering** student at the University of North Carolina at Chapel Hill. 
+I am Alan Saj, a **Data Science + Biomedical Engineering** student at the University of North Carolina at Chapel Hill. 
 
 I'm passionate about applying machine learning and AI to transform healthcare through computational biology and bioinformatics. With a strong foundation in data analysis, statistics, and biotechnology, I enjoy tackling complex problems in the life sciences. My enthusiasm for leveraging AI in biomedical research drives my commitment to innovation and meaningful contributions in the field. My drive for innovation and adaptability enables me to embrace diverse challenges and make meaningful contributions across various domains.
 
